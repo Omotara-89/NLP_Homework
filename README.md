@@ -25,5 +25,6 @@ See below a snapshot of the word cloud for both coins
 ![](Images/Wordcloud.png)
  
 The final task was on Named Entity Recognition, and it was visualized using SpaCY. Below is a snapshot for Bitcoin
+
 ![](Images/BitcoinNER.png)
  
